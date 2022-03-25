@@ -1,0 +1,12 @@
+Arrays Hold Multiple Values
+Pointer Variables
+Arrays as Function Arguments
+Comparing Pointers
+Pointer Variables
+Pointer Variables
+Initializing Pointers
+Pointers as Function Parameters
+Arrays as Function Arguments
+Pointer Variables
+Arrays Hold Multiple Values
+Pointer Variables
